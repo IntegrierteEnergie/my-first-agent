@@ -9,19 +9,19 @@ Build your first AI agent step by step – from simple chat to real energy syste
 This repository accompanies the YouTube series “Who is FRED?” / “My First Agent”.
 You will build your own AI agent for heat planning and energy systems – starting simple, but with a clean and extensible architecture.
 
-🧠 What is FRED?
+What is FRED?
 
 FRED is not just a chatbot.
 
-FRED is a structured AI agent that:
+FRED is a small but structured AI agent that:
 
 understands your questions
 responds via a language model
 can be extended with tools, memory, and simulations
 
-👉 The goal is not a demo – but a foundation you can build on.
+The goal is not a demo – but a foundation you can build on.
 
-🎯 What you will learn
+What you will learn
 How to structure an AI agent (UI, LLM, prompts)
 How to connect a language model (API or local)
 How to extend an agent step by step:
@@ -29,7 +29,7 @@ reading documents
 remembering context
 running simulations
 orchestrating multiple models
-🗺️ Course Structure (Milestones)
+Course Structure (Milestones)
 
 Each milestone corresponds to a video and a release/tag in this repository:
 
@@ -40,9 +40,9 @@ M3 – FRED erinnert sich	Add memory (chat + vector database)
 M4 – FRED rechnet	Connect to pandapipes for heat network simulation
 M5 – FRED koordiniert	Multi-model orchestration
 
-👉 Checkout a specific stage via releases/tags.
+Checkout a specific stage via releases/tags.
 
-⚙️ Requirements
+Requirements
 Python (>= 3.10 recommended)
 IDE (e.g. PyCharm or VS Code)
 Git
@@ -52,7 +52,7 @@ via API (e.g. Qwen)
 or locally (e.g. Ollama)
 pandapipes (a packages connected to pandapipes)
 
-🛠️ Setup
+Setup
 # Clone repository
 git clone https://github.com/YOUR_USERNAME/fred-agent.git
 cd fred-agent
@@ -81,10 +81,10 @@ fred-agent/
 │── config/
 │   └── settings.py
 
-👉 Each part has a clear responsibility.
-👉 This is the key to building real agents later.
+Each part has a clear responsibility.
+This is the key to building real agents later.
 
-💡 Philosophy
+Philosophy
 
 This project follows a simple principle:
 
@@ -100,12 +100,12 @@ full control
 step-by-step evolution
 
 
-🚀 Where to start
+Where to start
 
-👉 Start with M1 – FRED lebt 
+Start with M0 - Who is FRED for an introduction and then hands-on  M1 – FRED lebt 
 Then move forward milestone by milestone.
 
-🤝 Contributing / Using the Code
+ Contributing / Using the Code
 
 Feel free to:
 
@@ -115,11 +115,11 @@ build your own agents
 
 This project is meant for learning, experimenting, and extending.
 
-📄 License
+License
 
 MIT License – use it freely, but remember me ;)
 
-🎓 Final Thought
+Final Thought
 
 If FRED runs on your machine,
 you’ve taken your first real step into agentic AI.
