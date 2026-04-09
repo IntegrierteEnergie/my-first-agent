@@ -6,7 +6,7 @@ FRED – My First Agent
 Build your first AI agent step by step – from simple chat to real energy system interaction.
 
 
-This repository accompanies the YouTube series “Who is FRED?” / “My First Agent”.
+This repository accompanies the YouTube series “Who is FRED?” / “My First Agent”. https://www.youtube.com/@IntegrierteEnergie
 You will build your own AI agent for heat planning and energy systems – starting simple, but with a clean and extensible architecture.
 
 What is FRED?
